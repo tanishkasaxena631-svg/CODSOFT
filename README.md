@@ -58,6 +58,7 @@ This repository contains all tasks completed during my Artificial Intelligence I
    git clone 
 https://github.com/tanishkasaxena631-svg/CODSOFT
 cd CODSOFT
+
 2. **Install dependencies:**
   ```bush
   pip install pandas scikit-learn numpy
