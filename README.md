@@ -56,11 +56,8 @@ This repository contains all tasks completed during my Artificial Intelligence I
 1. **Clone the repo:**
    ```bash
    git clone 
-
-
-
-
-   cd CODSOFT
+https://github.com/tanishkasaxena631-svg/CODSOFT
+cd CODSOFT
 2. **Install dependencies:**
   ```bush
   pip install pandas scikit-learn numpy
@@ -89,5 +86,6 @@ This repository contains all tasks completed during my Artificial Intelligence I
 - **Action:** TF-IDF vectorization + Cosine similarity on genres/keywords
 - **Result:** Relevant recommendations generated in real-time from 200+ movies
 ## 🔗 Connect With Me
-LinkedIn: [Add your LinkedIn profile URL here]  
-Email: [Add your email if you want]
+LinkedIn: https://www.linkedin.com/in/tanishka-saxena-0173a6334?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  
+Email: tanishkasaxena631@gmail.com 
