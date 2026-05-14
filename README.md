@@ -60,11 +60,11 @@ https://github.com/tanishkasaxena631-svg/CODSOFT
 cd CODSOFT
 
 2. **Install dependencies:**
-  ```bush
-  pip install pandas scikit-learn numpy
+   ```bush
+   pip install pandas scikit-learn numpy
 3. **Run a task:**
-  ```bush
-  python chatbot.py
+   ```bush
+   python chatbot.py
    python tic-tac-toe.py  
    python recommendation_system.py
  ## 🎯 Key Technical Learnings
